@@ -2,6 +2,15 @@
 
 A Flask-based web application that fetches and displays the latest Google BigQuery release notes from the official RSS feed.
 
+## Live Demo
+🚀 [Open Live Application](https://bigquery-release-notes-dashboard.onrender.com)
+
+## Source Code
+📂 [View GitHub Repository](https://github.com/Sai-Likitha-Madisetty/bigquery-release-notes-dashboard)
+
+## Application Preview
+![BigQuery Release Notes Dashboard](screenshot.png)
+
 ## Features
 
 * Fetches BigQuery release notes from the official Google Cloud RSS feed
