@@ -1,0 +1,685 @@
+{
+  "timestamp": 1781628861.8802588,
+  "updates": [
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_15_2026_0",
+      "date": "June 15, 2026",
+      "raw_date": "2026-06-15T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_15_2026",
+      "content_html": "<p>Use Gemini Cloud Assist to analyze your SQL queries and receive\nrecommendations to <a href=\"https://docs.cloud.google.com/bigquery/docs/use-cloud-assist#optimize-query\" rel=\"noopener noreferrer\" target=\"_blank\">optimize query performance in BigQuery</a>.\nThis feature is available to customers who use BigQuery editions.\nThis feature is in\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "Use Gemini Cloud Assist to analyze your SQL queries and receive\nrecommendations to optimize query performance in BigQuery.\nThis feature is available to customers who use BigQuery editions.\nThis feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_15_2026_1",
+      "date": "June 15, 2026",
+      "raw_date": "2026-06-15T00:00:00-07:00",
+      "category": "Issue",
+      "category_type": "Issue",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_15_2026",
+      "content_html": "<p>Support for configuring daily token quotas for BigQuery generative AI\nfunctions has been temporarily disabled. We are working to restore this\nfeature as soon as possible.</p>",
+      "content_text": "Support for configuring daily token quotas for BigQuery generative AI\nfunctions has been temporarily disabled. We are working to restore this\nfeature as soon as possible."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_15_2026_2",
+      "date": "June 15, 2026",
+      "raw_date": "2026-06-15T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_15_2026",
+      "content_html": "<p>You can resize the width of table columns in BigQuery Studio for\nBigQuery listings such as datasets, repositories, job history,\nand connections. To resize a column, hover over the column divider and drag it\nto your preferred width.</p>",
+      "content_text": "You can resize the width of table columns in BigQuery Studio for\nBigQuery listings such as datasets, repositories, job history,\nand connections. To resize a column, hover over the column divider and drag it\nto your preferred width."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_15_2026_3",
+      "date": "June 15, 2026",
+      "raw_date": "2026-06-15T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_15_2026",
+      "content_html": "<p>You can use Gemini Code Assist directly within the BigQuery <strong>Jobs explorer</strong>,\n<strong>Job details</strong>, <strong>Job history</strong>, and <strong>Capacity management</strong> pages to help you\ntroubleshoot and analyze performance issues. For more information, see\n<a href=\"https://docs.cloud.google.com/bigquery/docs/admin-jobs-explorer#get-job-details\" rel=\"noopener noreferrer\" target=\"_blank\">Troubleshoot job\nperformance</a>. This feature\nis in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can use Gemini Code Assist directly within the BigQuery Jobs explorer,\nJob details, Job history, and Capacity management pages to help you\ntroubleshoot and analyze performance issues. For more information, see\nTroubleshoot job\nperformance. This feature\nis in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_12_2026_4",
+      "date": "June 12, 2026",
+      "raw_date": "2026-06-12T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_12_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/bigquery/docs/generative-ai-overview\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery AI functions</a> can use\n<a href=\"https://docs.cloud.google.com/bigquery/docs/work-with-objectref\" rel=\"noopener noreferrer\" target=\"_blank\"><code>ObjectRef</code> values</a> directly as input,\nwithout calling the <code>OBJ.GET_ACCESS_URL</code> function.\nThis feature is\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "BigQuery AI functions can use\nObjectRef values directly as input,\nwithout calling the OBJ.GET_ACCESS_URL function.\nThis feature is\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_11_2026_5",
+      "date": "June 11, 2026",
+      "raw_date": "2026-06-11T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_11_2026",
+      "content_html": "<p>You can <a href=\"https://docs.cloud.google.com/bigquery/docs/use-cloud-assist#administer_bigquery\" rel=\"noopener noreferrer\" target=\"_blank\">monitor performance, analyze capacity, and optimize costs with Gemini Cloud Assist in BigQuery</a>.\nThis feature is in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can monitor performance, analyze capacity, and optimize costs with Gemini Cloud Assist in BigQuery.\nThis feature is in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_11_2026_6",
+      "date": "June 11, 2026",
+      "raw_date": "2026-06-11T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_11_2026",
+      "content_html": "<p>Support for the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-key-drivers\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.KEY_DRIVERS</code> function</a>\nis restored. You can use the\n<code>AI.KEY_DRIVERS</code> function to identify segments of data that cause statistically significant changes to a summable metric.</p><p>This feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "Support for the\nAI.KEY_DRIVERS function\nis restored. You can use the\nAI.KEY_DRIVERS function to identify segments of data that cause statistically significant changes to a summable metric. This feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_10_2026_7",
+      "date": "June 10, 2026",
+      "raw_date": "2026-06-10T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_10_2026",
+      "content_html": "<p>BigQuery continuous queries now support the following aggregation functions:</p><ul>\n<li><a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions#array_agg\" rel=\"noopener noreferrer\" target=\"_blank\"><code>ARRAY_AGG</code></a></li>\n<li><a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions#string_agg\" rel=\"noopener noreferrer\" target=\"_blank\"><code>STRING_AGG</code></a></li>\n</ul><p>Support for these functions is in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "BigQuery continuous queries now support the following aggregation functions: \nARRAY_AGG\nSTRING_AGG\n Support for these functions is in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_08_2026_8",
+      "date": "June 08, 2026",
+      "raw_date": "2026-06-08T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "content_html": "<p>You can <a href=\"https://docs.cloud.google.com/bigquery/docs/use-cloud-assist#analyze-lineage\" rel=\"noopener noreferrer\" target=\"_blank\">analyze data lineage with Gemini Cloud Assist in\nBigQuery</a>. This feature is in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can analyze data lineage with Gemini Cloud Assist in\nBigQuery. This feature is in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_08_2026_9",
+      "date": "June 08, 2026",
+      "raw_date": "2026-06-08T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "content_html": "<p>You can now use Gemini Cloud Assist to\n<a href=\"https://docs.cloud.google.com/bigquery/docs/use-cloud-assist#schedule_a_query\" rel=\"noopener noreferrer\" target=\"_blank\">schedule queries</a>. This\nfeature is in\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use Gemini Cloud Assist to\nschedule queries. This\nfeature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_08_2026_10",
+      "date": "June 08, 2026",
+      "raw_date": "2026-06-08T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "content_html": "<p>You can use the Google-developed, open source\n<a href=\"https://docs.cloud.google.com/bigquery/docs/jdbc-for-bigquery\" rel=\"noopener noreferrer\" target=\"_blank\">Java Database Connectivity (JDBC) driver for BigQuery</a>\nto connect your Java applications to BigQuery. This feature is\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can use the Google-developed, open source\nJava Database Connectivity (JDBC) driver for BigQuery\nto connect your Java applications to BigQuery. This feature is\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_08_2026_11",
+      "date": "June 08, 2026",
+      "raw_date": "2026-06-08T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "content_html": "<p>You can use custom constraints with Organization Policy to provide more\ngranular control over specific fields for some BigQuery sharing\nresources. For more information, see\n<a href=\"https://docs.cloud.google.com/bigquery/docs/analytics-hub-custom-constraints\" rel=\"noopener noreferrer\" target=\"_blank\">Manage Sharing data exchanges and listings using custom constraints</a>.\nThis feature is <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can use custom constraints with Organization Policy to provide more\ngranular control over specific fields for some BigQuery sharing\nresources. For more information, see\nManage Sharing data exchanges and listings using custom constraints.\nThis feature is generally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_08_2026_12",
+      "date": "June 08, 2026",
+      "raw_date": "2026-06-08T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/bigquery/docs/control-access-to-resources-iam#deny_access_to_a_resource\" rel=\"noopener noreferrer\" target=\"_blank\">IAM deny policies</a>\nfor BigQuery are now <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "IAM deny policies\nfor BigQuery are now generally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_08_2026_13",
+      "date": "June 08, 2026",
+      "raw_date": "2026-06-08T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_08_2026",
+      "content_html": "<p>You can manage and limit the costs associated with BigQuery generative AI\nfunctions by configuring <a href=\"https://docs.cloud.google.com/bigquery/docs/control-genai-costs\" rel=\"noopener noreferrer\" target=\"_blank\">daily token quotas</a>.\nToken-based cost management for BigQuery generative AI functions is\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can manage and limit the costs associated with BigQuery generative AI\nfunctions by configuring daily token quotas.\nToken-based cost management for BigQuery generative AI functions is\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_03_2026_14",
+      "date": "June 03, 2026",
+      "raw_date": "2026-06-03T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_03_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/bigquery/docs/slots#slot-autoscaling\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery fluid scaling</a>, which provides\nper-second billing with no minimum duration for autoscaling reservations,\nis <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "BigQuery fluid scaling, which provides\nper-second billing with no minimum duration for autoscaling reservations,\nis generally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_02_2026_15",
+      "date": "June 02, 2026",
+      "raw_date": "2026-06-02T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_02_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/bigquery/docs/remote-functions#create_a_remote_function\" rel=\"noopener noreferrer\" target=\"_blank\">Remote functions</a> now\nsupport a custom path in the endpoint URL. You can reuse a single Cloud Run\nservice for multiple BigQuery remote functions by specifying different path\nsuffixes on the same endpoint. This feature is <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally\navailable</a> (GA).</p>",
+      "content_text": "Remote functions now\nsupport a custom path in the endpoint URL. You can reuse a single Cloud Run\nservice for multiple BigQuery remote functions by specifying different path\nsuffixes on the same endpoint. This feature is generally\navailable (GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#June_01_2026_16",
+      "date": "June 01, 2026",
+      "raw_date": "2026-06-01T00:00:00-07:00",
+      "category": "Change",
+      "category_type": "Changed",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#June_01_2026",
+      "content_html": "<p>The Facebook Ads connector for the BigQuery Data Transfer Service now supports\ndata transfers from the following Facebook Ads reports:</p><ul>\n<li><code>AdInsightsMMM</code></li>\n<li><code>Ads</code></li>\n<li><code>AdCreatives</code></li>\n<li><code>AdSets</code></li>\n<li><code>Campaigns</code></li>\n<li><code>AdImages</code></li>\n<li><code>AdLabels</code></li>\n<li><code>Businesses</code></li>\n<li><code>CustomAudiences</code></li>\n</ul>",
+      "content_text": "The Facebook Ads connector for the BigQuery Data Transfer Service now supports\ndata transfers from the following Facebook Ads reports: \nAdInsightsMMM\nAds\nAdCreatives\nAdSets\nCampaigns\nAdImages\nAdLabels\nBusinesses\nCustomAudiences"
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_27_2026_17",
+      "date": "May 27, 2026",
+      "raw_date": "2026-05-27T00:00:00-07:00",
+      "category": "Change",
+      "category_type": "Changed",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_27_2026",
+      "content_html": "<p>An updated version of the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers#current_odbc_driver\" rel=\"noopener noreferrer\" target=\"_blank\">Simba ODBC driver for BigQuery</a>\nis now available.</p>",
+      "content_text": "An updated version of the\nSimba ODBC driver for BigQuery\nis now available."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_26_2026_18",
+      "date": "May 26, 2026",
+      "raw_date": "2026-05-26T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_26_2026",
+      "content_html": "<p>The <a href=\"https://docs.cloud.google.com/bigquery/docs/colab-data-science-agent\" rel=\"noopener noreferrer\" target=\"_blank\">Data Science Agent</a> (DSA) for\nColab Enterprise and BigQuery is now <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally\navailable</a> (GA).</p>",
+      "content_text": "The Data Science Agent (DSA) for\nColab Enterprise and BigQuery is now generally\navailable (GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_20_2026_19",
+      "date": "May 20, 2026",
+      "raw_date": "2026-05-20T00:00:00-07:00",
+      "category": "Announcement",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_20_2026",
+      "content_html": "<p>BigQuery can re-execute instructions (queries) to try to proactively detect performance, correctness, or functional regressions.\nThese re-executions will have no side effects and will happen with no additional cost or resource consumption.\nData access logs may show <code>bigquery-adminbot@system.gserviceaccount.com</code> when BigQuery re-executes an instruction.</p>",
+      "content_text": "BigQuery can re-execute instructions (queries) to try to proactively detect performance, correctness, or functional regressions.\nThese re-executions will have no side effects and will happen with no additional cost or resource consumption.\nData access logs may show bigquery-adminbot@system.gserviceaccount.com when BigQuery re-executes an instruction."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_20_2026_20",
+      "date": "May 20, 2026",
+      "raw_date": "2026-05-20T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_20_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/bigquery/docs/user-defined-functions-python\" rel=\"noopener noreferrer\" target=\"_blank\">Python UDFs</a> are now\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Generally Available</a>\n(GA).</p><p>You can use Python UDFs to implement a scalar function in Python and use it in a\nSQL query. Python UDFs let you install third-party libraries from the\n<a href=\"https://pypi.org/\" rel=\"noopener noreferrer\" target=\"_blank\">Python Package Index (PyPI)</a> and let you access external\nservices using a <a href=\"https://docs.cloud.google.com/bigquery/docs/create-cloud-resource-connection\" rel=\"noopener noreferrer\" target=\"_blank\">Cloud resource connection</a>.</p>",
+      "content_text": "Python UDFs are now\nGenerally Available\n(GA). You can use Python UDFs to implement a scalar function in Python and use it in a\nSQL query. Python UDFs let you install third-party libraries from the\nPython Package Index (PyPI) and let you access external\nservices using a Cloud resource connection."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_20_2026_21",
+      "date": "May 20, 2026",
+      "raw_date": "2026-05-20T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_20_2026",
+      "content_html": "<p>You can now use the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-agg\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.AGG</code> function</a>\nto semantically aggregate unstructured input data based on natural language\ninstructions. This feature is in\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use the\nAI.AGG function\nto semantically aggregate unstructured input data based on natural language\ninstructions. This feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_18_2026_22",
+      "date": "May 18, 2026",
+      "raw_date": "2026-05-18T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_18_2026",
+      "content_html": "<p>You can\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reservations-tasks#prioritize_idle_slots_with_reservation_groups\" rel=\"noopener noreferrer\" target=\"_blank\">group reservations</a>\ntogether to prioritize idle slot sharing within the group. Reservations within a\nreservation group share idle slots with each other before making them available\nto other reservations in the project, giving you more control over slot\nallocation for high-priority workloads. This feature is\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can\ngroup reservations\ntogether to prioritize idle slot sharing within the group. Reservations within a\nreservation group share idle slots with each other before making them available\nto other reservations in the project, giving you more control over slot\nallocation for high-priority workloads. This feature is\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_18_2026_23",
+      "date": "May 18, 2026",
+      "raw_date": "2026-05-18T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_18_2026",
+      "content_html": "<p>You can now use a <a href=\"https://docs.cloud.google.com/bigquery/docs/custom-constraints\" rel=\"noopener noreferrer\" target=\"_blank\">custom organization policy</a>\nto allow or deny specific operations on workload management resources including\nreservations, assignments, capacity commitments, and BI reservations. This\nfeature is in <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use a custom organization policy\nto allow or deny specific operations on workload management resources including\nreservations, assignments, capacity commitments, and BI reservations. This\nfeature is in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_18_2026_24",
+      "date": "May 18, 2026",
+      "raw_date": "2026-05-18T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_18_2026",
+      "content_html": "<p>You can manage and version control SQL scripts and notebooks with\n<a href=\"https://docs.cloud.google.com/bigquery/docs/git-repositories\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery Studio Git repositories</a>,\nwhich provide a streamlined, folder-based integration with remote Git\nrepositories. This feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">preview</a>.</p>",
+      "content_text": "You can manage and version control SQL scripts and notebooks with\nBigQuery Studio Git repositories,\nwhich provide a streamlined, folder-based integration with remote Git\nrepositories. This feature is in\npreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_15_2026_25",
+      "date": "May 15, 2026",
+      "raw_date": "2026-05-15T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_15_2026",
+      "content_html": "<p>The\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-detect-anomalies\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.DETECT_ANOMALIES</code> function</a>\nsupports calling the function with a single input table that holds both the\nhistorical and target data. This feature is\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "The\nAI.DETECT_ANOMALIES function\nsupports calling the function with a single input table that holds both the\nhistorical and target data. This feature is\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_14_2026_26",
+      "date": "May 14, 2026",
+      "raw_date": "2026-05-14T00:00:00-07:00",
+      "category": "Issue",
+      "category_type": "Issue",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_14_2026",
+      "content_html": "<p>Support for the <code>AI.KEY_DRIVERS</code> function\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">preview</a>\nhas been temporarily disabled. We are working to restore this feature as soon as\npossible.</p>",
+      "content_text": "Support for the AI.KEY_DRIVERS function\npreview\nhas been temporarily disabled. We are working to restore this feature as soon as\npossible."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_12_2026_27",
+      "date": "May 12, 2026",
+      "raw_date": "2026-05-12T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_12_2026",
+      "content_html": "<p>You can now use the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-count-tokens\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.COUNT_TOKENS</code> function</a>\nto estimate the token count of text input that you provide. For some generative\nAI functions, you can <a href=\"https://docs.cloud.google.com/bigquery/docs/generative-ai-overview#token_usage\" rel=\"noopener noreferrer\" target=\"_blank\">view</a>\nthe total number of input, output, thought, and cache tokens for each modality\nprocessed by the query. These features are in\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use the\nAI.COUNT_TOKENS function\nto estimate the token count of text input that you provide. For some generative\nAI functions, you can view\nthe total number of input, output, thought, and cache tokens for each modality\nprocessed by the query. These features are in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_08_2026_28",
+      "date": "May 08, 2026",
+      "raw_date": "2026-05-08T00:00:00-07:00",
+      "category": "Announcement",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_08_2026",
+      "content_html": "<p>Starting August 11, 2026, the billing label for the BigQuery Data Transfer\nService SKU will be updated from <code>goog-bq-feature-type: DATA_TRANSFER_SERVICE</code>\n(uppercase) to <code>goog-bq-feature-type: data_transfer_service</code> (lowercase) to\nprovide a more unified and complete view of your costs. This update expands the\nscope of the label to cover all costs associated with the BigQuery Data Transfer\nService, including data transfer orchestration, data load operations, and data\nmerge operations.</p><p>To ensure uninterrupted cost visibility, update your billing exports,\ndashboards, and reporting queries to include both these labels.</p>",
+      "content_text": "Starting August 11, 2026, the billing label for the BigQuery Data Transfer\nService SKU will be updated from goog-bq-feature-type: DATA_TRANSFER_SERVICE\n(uppercase) to goog-bq-feature-type: data_transfer_service (lowercase) to\nprovide a more unified and complete view of your costs. This update expands the\nscope of the label to cover all costs associated with the BigQuery Data Transfer\nService, including data transfer orchestration, data load operations, and data\nmerge operations. To ensure uninterrupted cost visibility, update your billing exports,\ndashboards, and reporting queries to include both these labels."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_06_2026_29",
+      "date": "May 06, 2026",
+      "raw_date": "2026-05-06T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_06_2026",
+      "content_html": "<p>You can configure BigQuery sharing listings for multiple regions, which\nallows you to share datasets and linked replicas across global geographies\nsimultaneously. For more information, see\n<a href=\"https://docs.cloud.google.com/bigquery/docs/analytics-hub-manage-listings#create_a_listing\" rel=\"noopener noreferrer\" target=\"_blank\">Create a listing</a>.\nThis feature is\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can configure BigQuery sharing listings for multiple regions, which\nallows you to share datasets and linked replicas across global geographies\nsimultaneously. For more information, see\nCreate a listing.\nThis feature is\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#May_06_2026_30",
+      "date": "May 06, 2026",
+      "raw_date": "2026-05-06T00:00:00-07:00",
+      "category": "Breaking",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#May_06_2026",
+      "content_html": "<p>Starting June 1, 2026, due to changes in Google Ads data retention policies,\nthe BigQuery Data Transfer Service connectors for <a href=\"https://docs.cloud.google.com/bigquery/docs/transfer-changes#June01-google-ads\" rel=\"noopener noreferrer\" target=\"_blank\">Google\nAds</a>, <a href=\"https://docs.cloud.google.com/bigquery/docs/transfer-changes#June01-search-ads\" rel=\"noopener noreferrer\" target=\"_blank\">Search Ads\n360</a>, and <a href=\"https://docs.cloud.google.com/bigquery/docs/transfer-changes#June01-ga4\" rel=\"noopener noreferrer\" target=\"_blank\">Google Analytics\n4</a> will stop populating\ndata for backfill runs with dates earlier than 37 months from the current date.</p><p>For more information about the changes to the Google Ads data retention\npolicies, see <a href=\"https://ads-developers.googleblog.com/2026/05/new-data-retention-policy-for-google.html\" rel=\"noopener noreferrer\" target=\"_blank\">New Data Retention Policy for Google Ads starting June 1,\n2026</a>.</p>",
+      "content_text": "Starting June 1, 2026, due to changes in Google Ads data retention policies,\nthe BigQuery Data Transfer Service connectors for Google\nAds, Search Ads\n360, and Google Analytics\n4 will stop populating\ndata for backfill runs with dates earlier than 37 months from the current date. For more information about the changes to the Google Ads data retention\npolicies, see New Data Retention Policy for Google Ads starting June 1,\n2026."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_30_2026_31",
+      "date": "April 30, 2026",
+      "raw_date": "2026-04-30T00:00:00-07:00",
+      "category": "Breaking",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_30_2026",
+      "content_html": "<p>Starting May 7, 2026, new transfer configurations that transfer data from Google Ads using the\nBigQuery Data Transfer Service will require <a href=\"https://ads-developers.googleblog.com/2026/04/multi-factor-authentication-requirement.html\" rel=\"noopener noreferrer\" target=\"_blank\">Multi-factor authentication (MFA)\nfor individual user\nauthentication</a>.\nFor more information, see <a href=\"https://docs.cloud.google.com/bigquery/docs/transfer-changes#May7-google-ads\" rel=\"noopener noreferrer\" target=\"_blank\">May 7,\n2026</a>.</p>",
+      "content_text": "Starting May 7, 2026, new transfer configurations that transfer data from Google Ads using the\nBigQuery Data Transfer Service will require Multi-factor authentication (MFA)\nfor individual user\nauthentication.\nFor more information, see May 7,\n2026."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_29_2026_32",
+      "date": "April 29, 2026",
+      "raw_date": "2026-04-29T00:00:00-07:00",
+      "category": "Breaking",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_29_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/dataform/docs/strict-act-as-mode\" rel=\"noopener noreferrer\" target=\"_blank\">Strict act-as mode</a>\nis enforced globally for all Dataform repositories, requiring the use of a\ncustom service account or user credentials for running Dataform workflows,\nBigQuery pipelines, notebooks, and data preparations.</p>",
+      "content_text": "Strict act-as mode\nis enforced globally for all Dataform repositories, requiring the use of a\ncustom service account or user credentials for running Dataform workflows,\nBigQuery pipelines, notebooks, and data preparations."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_29_2026_33",
+      "date": "April 29, 2026",
+      "raw_date": "2026-04-29T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_29_2026",
+      "content_html": "<p>You can now use the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/vectorindex_functions#vector_indexstatistics\" rel=\"noopener noreferrer\" target=\"_blank\"><code>VECTOR_INDEX.STATISTICS</code> function</a> to calculate how much an indexed table's data has drifted between when a\nvector index was created and the present. If table data has changed enough\nto require a <a href=\"https://docs.cloud.google.com/bigquery/docs/vector-index#rebuild_a_vector_index\" rel=\"noopener noreferrer\" target=\"_blank\">vector index rebuild</a>, you can use the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/data-definition-language#alter_vector_index_rebuild_statement\" rel=\"noopener noreferrer\" target=\"_blank\"><code>ALTER VECTOR INDEX REBUILD</code> statement</a>\nto rebuild the vector index without downtime. These features are\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can now use the\nVECTOR_INDEX.STATISTICS function to calculate how much an indexed table's data has drifted between when a\nvector index was created and the present. If table data has changed enough\nto require a vector index rebuild, you can use the\nALTER VECTOR INDEX REBUILD statement\nto rebuild the vector index without downtime. These features are\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_29_2026_34",
+      "date": "April 29, 2026",
+      "raw_date": "2026-04-29T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_29_2026",
+      "content_html": "<p>You can now use the <code>PARTITION BY</code> clause of the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/data-definition-language#create_vector_index_statement\" rel=\"noopener noreferrer\" target=\"_blank\"><code>CREATE VECTOR INDEX</code> statement</a>\nto <a href=\"https://docs.cloud.google.com/bigquery/docs/vector-index#partitions\" rel=\"noopener noreferrer\" target=\"_blank\">partition TreeAH vector indexes</a>.\nPartitioning enables partition pruning and can decrease I/O costs. This feature\nis <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Generally Available</a>.</p>",
+      "content_text": "You can now use the PARTITION BY clause of the\nCREATE VECTOR INDEX statement\nto partition TreeAH vector indexes.\nPartitioning enables partition pruning and can decrease I/O costs. This feature\nis Generally Available."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_28_2026_35",
+      "date": "April 28, 2026",
+      "raw_date": "2026-04-28T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_28_2026",
+      "content_html": "<p>You can now\n<a href=\"https://docs.cloud.google.com/bigquery/docs/materialized-views-intro#cdc\" rel=\"noopener noreferrer\" target=\"_blank\">create materialized views over active change data capture (CDC) enabled tables</a>.\nThis feature is <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can now\ncreate materialized views over active change data capture (CDC) enabled tables.\nThis feature is generally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_23_2026_36",
+      "date": "April 23, 2026",
+      "raw_date": "2026-04-23T00:00:00-07:00",
+      "category": "Change",
+      "category_type": "Changed",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_23_2026",
+      "content_html": "<p>An updated version of the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/odbc-jdbc-drivers#current_jdbc_driver\" rel=\"noopener noreferrer\" target=\"_blank\">Simba JDBC driver for BigQuery</a>\nis now available.</p>",
+      "content_text": "An updated version of the\nSimba JDBC driver for BigQuery\nis now available."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_37",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p>You can now use the <a href=\"https://docs.cloud.google.com/bigquery/docs/graph-modeler\" rel=\"noopener noreferrer\" target=\"_blank\">visual graph modeler</a> in\nBigQuery Studio to define BigQuery graph nodes and edges from your\nBigQuery tables and edit graph schema. This\nfeature is available in <a href=\"https://docs.cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use the visual graph modeler in\nBigQuery Studio to define BigQuery graph nodes and edges from your\nBigQuery tables and edit graph schema. This\nfeature is available in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_38",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Announcement",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p>Dataproc is now called <a href=\"https://docs.cloud.google.com/dataproc/docs/concepts/overview\" rel=\"noopener noreferrer\" target=\"_blank\">Managed Service for Apache Spark</a>. The names for associated API, client\nlibrary, CLI, and Identity and Access Management (IAM) resources remain unchanged.</p>",
+      "content_text": "Dataproc is now called Managed Service for Apache Spark. The names for associated API, client\nlibrary, CLI, and Identity and Access Management (IAM) resources remain unchanged."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_39",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Announcement",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p>BigLake is now called <a href=\"https://docs.cloud.google.com/biglake/docs/introduction\" rel=\"noopener noreferrer\" target=\"_blank\">Google Cloud Lakehouse</a>.\nBigLake metastore is now called the <a href=\"https://docs.cloud.google.com/biglake/docs/about-blms\" rel=\"noopener noreferrer\" target=\"_blank\">Lakehouse runtime\ncatalog</a>. The names for associated APIs, client\nlibraries, CLI commands, and Identity and Access Management (IAM) remain\nunchanged and still reference BigLake.</p>",
+      "content_text": "BigLake is now called Google Cloud Lakehouse.\nBigLake metastore is now called the Lakehouse runtime\ncatalog. The names for associated APIs, client\nlibraries, CLI commands, and Identity and Access Management (IAM) remain\nunchanged and still reference BigLake."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_40",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Announcement",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p>Dataplex Universal Catalog is now called <a href=\"https://docs.cloud.google.com/dataplex/docs/introduction\" rel=\"noopener noreferrer\" target=\"_blank\">Knowledge\nCatalog</a>. The API, client library, CLI, and\nIdentity and Access Management (IAM) names remain unchanged. For more\ninformation, see <a href=\"https://docs.cloud.google.com/dataplex/docs/introduction\" rel=\"noopener noreferrer\" target=\"_blank\">Knowledge Catalog overview</a>.</p>",
+      "content_text": "Dataplex Universal Catalog is now called Knowledge\nCatalog. The API, client library, CLI, and\nIdentity and Access Management (IAM) names remain unchanged. For more\ninformation, see Knowledge Catalog overview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_41",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Announcement",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p>Looker Studio is now called <a href=\"https://docs.cloud.google.com/data-studio\" rel=\"noopener noreferrer\" target=\"_blank\">Data Studio</a>.\nThe website and endpoint change from <code>lookerstudio.google.com</code> to\n<code>datastudio.google.com</code>. You do not need to update your reports for this change,\nas Data Studio automatically redirects to the new domain. However,\nif your company uses proxies to restrict access to external sites, your IT\nadministrator needs to add the new domain to your access control list (ACL).\nThe names for associated API, client library, CLI, and Identity and Access\nManagement (IAM) resources remain unchanged. For more information, see <a href=\"https://cloud.google.com/blog/products/data-analytics/looker-studio-is-data-studio\" rel=\"noopener noreferrer\" target=\"_blank\">Data Studio returns as new home for Data Cloud\nassets</a>.</p>",
+      "content_text": "Looker Studio is now called Data Studio.\nThe website and endpoint change from lookerstudio.google.com to\ndatastudio.google.com. You do not need to update your reports for this change,\nas Data Studio automatically redirects to the new domain. However,\nif your company uses proxies to restrict access to external sites, your IT\nadministrator needs to add the new domain to your access control list (ACL).\nThe names for associated API, client library, CLI, and Identity and Access\nManagement (IAM) resources remain unchanged. For more information, see Data Studio returns as new home for Data Cloud\nassets."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_42",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/bigquery/docs/graph-overview\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery graphs</a> now support the following\nfeatures:</p><ul>\n<li>You can <a href=\"https://docs.cloud.google.com/bigquery/docs/conversational-analytics#graphs\" rel=\"noopener noreferrer\" target=\"_blank\">query graphs</a> using\nnatural language in Conversational Analytics.</li>\n<li>You can add\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/graph-schema-statements#element_table_property_definition\" rel=\"noopener noreferrer\" target=\"_blank\">descriptions and synonyms</a> to the labels and properties in your graphs.</li>\n<li>For some types of graphs you can\n<a href=\"https://docs.cloud.google.com/bigquery/docs/graph-measures\" rel=\"noopener noreferrer\" target=\"_blank\">define measures</a>, which lock an aggregation\nto a key to help you perform complex aggregations without overcounting. To\nquery measures, you transform your graph into a flattened table by using the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/graph-sql-queries#graph_expand\" rel=\"noopener noreferrer\" target=\"_blank\"><code>GRAPH_EXPAND</code> TVF</a>,\nand then query measures in that table with the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/aggregate_functions#agg\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AGG</code> function</a>.</li>\n</ul><p>These features are in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "BigQuery graphs now support the following\nfeatures: \nYou can query graphs using\nnatural language in Conversational Analytics.\nYou can add\ndescriptions and synonyms to the labels and properties in your graphs.\nFor some types of graphs you can\ndefine measures, which lock an aggregation\nto a key to help you perform complex aggregations without overcounting. To\nquery measures, you transform your graph into a flattened table by using the\nGRAPH_EXPAND TVF,\nand then query measures in that table with the\nAGG function.\n These features are in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_43",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p>You can now <a href=\"https://docs.cloud.google.com/bigquery/docs/data-engineering-agent-pipelines\" rel=\"noopener noreferrer\" target=\"_blank\">use the Data Engineering Agent</a>\nto build, modify, and troubleshoot data pipelines in BigQuery. This feature is\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a> (GA).</p>",
+      "content_text": "You can now use the Data Engineering Agent\nto build, modify, and troubleshoot data pipelines in BigQuery. This feature is\ngenerally available (GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_22_2026_44",
+      "date": "April 22, 2026",
+      "raw_date": "2026-04-22T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_22_2026",
+      "content_html": "<p>You can now use the <code>gemini-embedding-2-preview</code> model in the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-embed\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.EMBED</code></a>,\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-similarity\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.SIMILARITY</code></a>,\nand\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-generate-embedding\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.GENERATE_EMBEDDING</code></a>\nfunctions to generate a single embedding from a combination of input types,\nincluding text, image, audio, video, and PDF files.\nThis feature is in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use the gemini-embedding-2-preview model in the\nAI.EMBED,\nAI.SIMILARITY,\nand\nAI.GENERATE_EMBEDDING\nfunctions to generate a single embedding from a combination of input types,\nincluding text, image, audio, video, and PDF files.\nThis feature is in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_21_2026_45",
+      "date": "April 21, 2026",
+      "raw_date": "2026-04-21T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_21_2026",
+      "content_html": "<p>You can now <a href=\"https://docs.cloud.google.com/bigquery/docs/graph-visualization#visualization-results\" rel=\"noopener noreferrer\" target=\"_blank\">visualize BigQuery graph query results and graph\nschemas</a> directly in\nBigQuery Studio, without the need of a notebook environment. This feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now visualize BigQuery graph query results and graph\nschemas directly in\nBigQuery Studio, without the need of a notebook environment. This feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_20_2026_46",
+      "date": "April 20, 2026",
+      "raw_date": "2026-04-20T00:00:00-07:00",
+      "category": "Change",
+      "category_type": "Changed",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_20_2026",
+      "content_html": "<p>Starting July 25, 2026, the <a href=\"https://docs.cloud.google.com/bigquery/docs/facebook-ads-transfer\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery Data Transfer Service for Facebook Ads\nconnector</a> will update the data type\nmapping for the <code>ActionValue</code> field in the <code>AdInsightsActions</code> report from <code>INT</code>\nto <code>FLOAT</code>.</p>",
+      "content_text": "Starting July 25, 2026, the BigQuery Data Transfer Service for Facebook Ads\nconnector will update the data type\nmapping for the ActionValue field in the AdInsightsActions report from INT\nto FLOAT."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_20_2026_47",
+      "date": "April 20, 2026",
+      "raw_date": "2026-04-20T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_20_2026",
+      "content_html": "<p>The following features have been added to <a href=\"https://docs.cloud.google.com/bigquery/docs/user-defined-functions-python\" rel=\"noopener noreferrer\" target=\"_blank\">Python UDFs</a>\nduring <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>:</p><ul>\n<li>Vectorized UDFs with Apache Arrow. You can now create <a href=\"https://docs.cloud.google.com/bigquery/docs/user-defined-functions-python#create-vector-udf-apache\" rel=\"noopener noreferrer\" target=\"_blank\">vectorized Python\nUDFs</a>\nusing the Apache Arrow <code>RecordBatch</code> interface for improved performance.</li>\n<li>Cloud Monitoring integration. Python UDFs now export\n<a href=\"https://docs.cloud.google.com/bigquery/docs/user-defined-functions-python#view_python_udf_metrics\" rel=\"noopener noreferrer\" target=\"_blank\">metrics</a>\nto Cloud Monitoring, including CPU utilization, memory utilization, and\nmaximum concurrent requests per instance.</li>\n<li>Container request concurrency. A new option,\n<code>container_request_concurrency</code>, is available for the <code>CREATE FUNCTION</code>\nstatement. This option controls the maximum number of concurrent requests\nper Python UDF container instance.</li>\n<li>New quotas. Python UDFs are now subject to <a href=\"https://docs.cloud.google.com/bigquery/quotas#udf_limits\" rel=\"noopener noreferrer\" target=\"_blank\">new quotas</a>\non image storage bytes (10 GiB per project per region) and mutation rate\n(30 per minute per project per region).</li>\n<li>Cost visibility. Python UDF costs can be seen in the\n<code>external_service_costs</code> column in the <code>INFORMATION_SCHEMA.JOBS</code> view and in\nthe <code>ExternalServiceCosts</code> field in the <a href=\"https://docs.cloud.google.com/bigquery/docs/reference/rest/v2/Job#externalservicecost\" rel=\"noopener noreferrer\" target=\"_blank\">Job API</a>.</li>\n</ul>",
+      "content_text": "The following features have been added to Python UDFs\nduring Preview: \nVectorized UDFs with Apache Arrow. You can now create vectorized Python\nUDFs\nusing the Apache Arrow RecordBatch interface for improved performance.\nCloud Monitoring integration. Python UDFs now export\nmetrics\nto Cloud Monitoring, including CPU utilization, memory utilization, and\nmaximum concurrent requests per instance.\nContainer request concurrency. A new option,\ncontainer_request_concurrency, is available for the CREATE FUNCTION\nstatement. This option controls the maximum number of concurrent requests\nper Python UDF container instance.\nNew quotas. Python UDFs are now subject to new quotas\non image storage bytes (10 GiB per project per region) and mutation rate\n(30 per minute per project per region).\nCost visibility. Python UDF costs can be seen in the\nexternal_service_costs column in the INFORMATION_SCHEMA.JOBS view and in\nthe ExternalServiceCosts field in the Job API."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_20_2026_48",
+      "date": "April 20, 2026",
+      "raw_date": "2026-04-20T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_20_2026",
+      "content_html": "<p>You can now <a href=\"https://docs.cloud.google.com/bigquery/docs/migration/external-metastore-lakehouse-migration\" rel=\"noopener noreferrer\" target=\"_blank\">migrate metadata from external data catalogs to BigLake tables for\nApache\nIceberg</a>. This\nfeature supports external data catalogs such as such as Apache Hive Metastore\nand Apache Iceberg REST Catalog. This feature is in\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now migrate metadata from external data catalogs to BigLake tables for\nApache\nIceberg. This\nfeature supports external data catalogs such as such as Apache Hive Metastore\nand Apache Iceberg REST Catalog. This feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_20_2026_49",
+      "date": "April 20, 2026",
+      "raw_date": "2026-04-20T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_20_2026",
+      "content_html": "<p>You can use the <a href=\"https://docs.cloud.google.com/bigquery/docs/use-bigquery-mcp\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery MCP server</a>\nto perform a range of data-related tasks with your AI applications including:</p><ul>\n<li>Examining BigQuery resources.</li>\n<li>Generating accurate and efficient SQL queries.</li>\n<li>Securely executing queries.</li>\n<li>Interpreting query results.</li>\n</ul><p>This feature is <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Generally Available</a>\n(GA).</p>",
+      "content_text": "You can use the BigQuery MCP server\nto perform a range of data-related tasks with your AI applications including: \nExamining BigQuery resources.\nGenerating accurate and efficient SQL queries.\nSecurely executing queries.\nInterpreting query results.\n This feature is Generally Available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_20_2026_50",
+      "date": "April 20, 2026",
+      "raw_date": "2026-04-20T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_20_2026",
+      "content_html": "<p>You can now publish a <a href=\"https://docs.cloud.google.com/bigquery/docs/create-data-agents#publish-agent-gemini-enterprise\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery Conversational Analytics agent in Gemini\nEnterprise</a>.\nThis feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now publish a BigQuery Conversational Analytics agent in Gemini\nEnterprise.\nThis feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_20_2026_51",
+      "date": "April 20, 2026",
+      "raw_date": "2026-04-20T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_20_2026",
+      "content_html": "<p>You can now use the <a href=\"https://docs.cloud.google.com/bigquery/docs/notebooks-introduction#notebook_gallery\" rel=\"noopener noreferrer\" target=\"_blank\">notebook gallery</a>\nin the BigQuery web UI as your central hub for discovering and using prebuilt notebook\ntemplates. This feature is <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can now use the notebook gallery\nin the BigQuery web UI as your central hub for discovering and using prebuilt notebook\ntemplates. This feature is generally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_17_2026_52",
+      "date": "April 17, 2026",
+      "raw_date": "2026-04-17T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_17_2026",
+      "content_html": "<p>Using\n<a href=\"https://docs.cloud.google.com/bigquery/docs/code-asset-folders\" rel=\"noopener noreferrer\" target=\"_blank\">folders</a>\nto organize and control access to single file code assets is\n<a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA). In addition, you can perform bulk move and delete operations, refresh\nfolder contents, and view full breadcrumb paths based on resource permissions.\nFor more information, see\n<a href=\"https://docs.cloud.google.com/bigquery/docs/create-manage-folders\" rel=\"noopener noreferrer\" target=\"_blank\">Create and manage folders</a>.</p>",
+      "content_text": "Using\nfolders\nto organize and control access to single file code assets is\ngenerally available\n(GA). In addition, you can perform bulk move and delete operations, refresh\nfolder contents, and view full breadcrumb paths based on resource permissions.\nFor more information, see\nCreate and manage folders."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_16_2026_53",
+      "date": "April 16, 2026",
+      "raw_date": "2026-04-16T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_16_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/bigquery/docs/conversational-analytics\" rel=\"noopener noreferrer\" target=\"_blank\">Conversational analytics</a> now supports\nquerying Lakehouse tables that connect to the Apache Iceberg REST catalog or are\nfederated to an external catalog. For more information, see <a href=\"https://docs.cloud.google.com/biglake/docs/conversational-analytics\" rel=\"noopener noreferrer\" target=\"_blank\">Query BigLake data\nwith natural language</a>.</p><p>This feature is in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "Conversational analytics now supports\nquerying Lakehouse tables that connect to the Apache Iceberg REST catalog or are\nfederated to an external catalog. For more information, see Query BigLake data\nwith natural language. This feature is in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_16_2026_54",
+      "date": "April 16, 2026",
+      "raw_date": "2026-04-16T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_16_2026",
+      "content_html": "<p>You can now use <a href=\"https://docs.cloud.google.com/bigquery/docs/colab-data-apps\" rel=\"noopener noreferrer\" target=\"_blank\">Colab Data Apps</a>\nto transform your data analyses from Colab notebooks into\npolished, interactive applications.</p><p>This feature is in <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use Colab Data Apps\nto transform your data analyses from Colab notebooks into\npolished, interactive applications. This feature is in Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_16_2026_55",
+      "date": "April 16, 2026",
+      "raw_date": "2026-04-16T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_16_2026",
+      "content_html": "<p>You can now use the\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-key-drivers\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.KEY_DRIVERS</code> function</a>\nto identify segments of data that cause statistically significant changes to a\nsummable metric.</p><p>This feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use the\nAI.KEY_DRIVERS function\nto identify segments of data that cause statistically significant changes to a\nsummable metric. This feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_15_2026_56",
+      "date": "April 15, 2026",
+      "raw_date": "2026-04-15T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_15_2026",
+      "content_html": "<p>BigQuery Apache Iceberg external tables now support\n<a href=\"https://iceberg.apache.org/spec/#version-3-extended-types-and-capabilities\" rel=\"noopener noreferrer\" target=\"_blank\">Iceberg version 3</a>,\nincluding binary deletion vectors. For more information, see\n<a href=\"https://docs.cloud.google.com/bigquery/docs/iceberg-external-tables\" rel=\"noopener noreferrer\" target=\"_blank\">Apache Iceberg external tables</a>.\nThis feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "BigQuery Apache Iceberg external tables now support\nIceberg version 3,\nincluding binary deletion vectors. For more information, see\nApache Iceberg external tables.\nThis feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_15_2026_57",
+      "date": "April 15, 2026",
+      "raw_date": "2026-04-15T00:00:00-07:00",
+      "category": "Announcement",
+      "category_type": "Announcement",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_15_2026",
+      "content_html": "<p>A known issue has been resolved where a materialized view refresh could expose masked or filtered data from fine grained access control policies in error messages. No further action is needed.</p>",
+      "content_text": "A known issue has been resolved where a materialized view refresh could expose masked or filtered data from fine grained access control policies in error messages. No further action is needed."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_15_2026_58",
+      "date": "April 15, 2026",
+      "raw_date": "2026-04-15T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_15_2026",
+      "content_html": "<p>BigQuery agent analytics is now <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a> (GA) in the Google Agent Developer Kit. <a href=\"https://docs.cloud.google.com/bigquery/docs/bigquery-agent-analytics\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery agent analytics</a>\nis an open source solution that lets you capture, analyze, and visualize\nmultimodal agent interaction data at scale.</p>",
+      "content_text": "BigQuery agent analytics is now generally available (GA) in the Google Agent Developer Kit. BigQuery agent analytics\nis an open source solution that lets you capture, analyze, and visualize\nmultimodal agent interaction data at scale."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_15_2026_59",
+      "date": "April 15, 2026",
+      "raw_date": "2026-04-15T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_15_2026",
+      "content_html": "<p>You can now use <a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/export-statements#export_to_alloydb\" rel=\"noopener noreferrer\" target=\"_blank\"><code>EXPORT DATA</code>\nstatements</a> to <a href=\"https://docs.cloud.google.com/bigquery/docs/export-to-alloydb\" rel=\"noopener noreferrer\" target=\"_blank\">reverse\nETL BigQuery data to AlloyDB</a>. This feature is\nin <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use EXPORT DATA\nstatements to reverse\nETL BigQuery data to AlloyDB. This feature is\nin Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_13_2026_60",
+      "date": "April 13, 2026",
+      "raw_date": "2026-04-13T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_13_2026",
+      "content_html": "<p>Support for the <code>AI.AGG</code> function <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">preview</a>\nhas been temporarily disabled. We are working to restore this feature as soon as\npossible.</p>",
+      "content_text": "Support for the AI.AGG function preview\nhas been temporarily disabled. We are working to restore this feature as soon as\npossible."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_13_2026_61",
+      "date": "April 13, 2026",
+      "raw_date": "2026-04-13T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_13_2026",
+      "content_html": "<p>To reduce LLM token consumption and query latency when processing large\ndatasets, enable <a href=\"https://docs.cloud.google.com/bigquery/docs/optimize-ai-functions\" rel=\"noopener noreferrer\" target=\"_blank\">optimized mode</a>\nusing the following <a href=\"https://docs.cloud.google.com/bigquery/docs/generative-ai-overview#managed_ai_functions\" rel=\"noopener noreferrer\" target=\"_blank\">managed AI functions</a>:</p><ul>\n<li><a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-if\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.IF</code></a></li>\n<li><a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-classify\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.CLASSIFY</code></a></li>\n</ul><p>This feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "To reduce LLM token consumption and query latency when processing large\ndatasets, enable optimized mode\nusing the following managed AI functions: \nAI.IF\nAI.CLASSIFY\n This feature is in\nPreview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_13_2026_62",
+      "date": "April 13, 2026",
+      "raw_date": "2026-04-13T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_13_2026",
+      "content_html": "<p>The following <a href=\"https://docs.cloud.google.com/bigquery/docs/generative-ai-overview#managed_ai_functions\" rel=\"noopener noreferrer\" target=\"_blank\">managed AI functions</a>\nuse Gemini to help you filter, join, rank, and classify your data:</p><ul>\n<li><a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-if\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.IF</code></a>:\nFilter and join text and unstructured data (such as images, PDFs, audio, or\nvideo) based on a condition described in natural language.</li>\n<li><a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-score\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.SCORE</code></a>:\nRate text and unstructured data (such as images, PDFs, audio, or video) to\nrank your data by quality, similarity, or other criteria.</li>\n<li><a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/bigqueryml-syntax-ai-classify\" rel=\"noopener noreferrer\" target=\"_blank\"><code>AI.CLASSIFY</code></a>:\nClassify text and unstructured data (such as images, PDFs, audio, or video)\ninto user-defined categories.</li>\n</ul><p>These functions are <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "The following managed AI functions\nuse Gemini to help you filter, join, rank, and classify your data: \nAI.IF:\nFilter and join text and unstructured data (such as images, PDFs, audio, or\nvideo) based on a condition described in natural language.\nAI.SCORE:\nRate text and unstructured data (such as images, PDFs, audio, or video) to\nrank your data by quality, similarity, or other criteria.\nAI.CLASSIFY:\nClassify text and unstructured data (such as images, PDFs, audio, or video)\ninto user-defined categories.\n These functions are generally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_13_2026_63",
+      "date": "April 13, 2026",
+      "raw_date": "2026-04-13T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_13_2026",
+      "content_html": "<p>You can use <a href=\"https://docs.cloud.google.com/bigquery/docs/create-notebooks#cells\" rel=\"noopener noreferrer\" target=\"_blank\">visualization cells</a> to\nautomatically <a href=\"https://docs.cloud.google.com/bigquery/docs/visualize-data-colab\" rel=\"noopener noreferrer\" target=\"_blank\">generate a visualization</a>\nof any DataFrame in your notebook. You can customize the columns, chart type,\naggregations, colors, labels, and title.</p><p>This feature is <a href=\"https://cloud.google.com/products#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "You can use visualization cells to\nautomatically generate a visualization\nof any DataFrame in your notebook. You can customize the columns, chart type,\naggregations, colors, labels, and title. This feature is generally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_10_2026_64",
+      "date": "April 10, 2026",
+      "raw_date": "2026-04-10T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_10_2026",
+      "content_html": "<p><a href=\"https://docs.cloud.google.com/colab/docs/sql-cells\" rel=\"noopener noreferrer\" target=\"_blank\">SQL cells</a> in BigQuery notebooks are now\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a>\n(GA).</p>",
+      "content_text": "SQL cells in BigQuery notebooks are now\ngenerally available\n(GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_09_2026_65",
+      "date": "April 09, 2026",
+      "raw_date": "2026-04-09T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_09_2026",
+      "content_html": "<p>The BigQuery Data Transfer Service can now\n<a href=\"https://docs.cloud.google.com/bigquery/docs/migration/snowflake-transfer\" rel=\"noopener noreferrer\" target=\"_blank\">transfer data from Snowflake to BigQuery</a>.\nThis feature is <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">generally available</a> (GA).</p>",
+      "content_text": "The BigQuery Data Transfer Service can now\ntransfer data from Snowflake to BigQuery.\nThis feature is generally available (GA)."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_09_2026_66",
+      "date": "April 09, 2026",
+      "raw_date": "2026-04-09T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_09_2026",
+      "content_html": "<p>You can now use stateful operations in <a href=\"https://docs.cloud.google.com/bigquery/docs/continuous-queries-introduction#supported_stateful_operations\" rel=\"noopener noreferrer\" target=\"_blank\">continuous\nqueries</a>,\nwhich let you perform complex analysis by retaining information across multiple\nrows or time intervals using <code>JOIN</code>s and windowing aggregations. This feature is\nin <a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use stateful operations in continuous\nqueries,\nwhich let you perform complex analysis by retaining information across multiple\nrows or time intervals using JOINs and windowing aggregations. This feature is\nin Preview."
+    },
+    {
+      "id": "tag:google.com,2016:bigquery-release-notes#April_09_2026_67",
+      "date": "April 09, 2026",
+      "raw_date": "2026-04-09T00:00:00-07:00",
+      "category": "Feature",
+      "category_type": "Feature",
+      "link": "https://docs.cloud.google.com/bigquery/docs/release-notes#April_09_2026",
+      "content_html": "<p>You can now use <a href=\"https://docs.cloud.google.com/bigquery/docs/graph-overview\" rel=\"noopener noreferrer\" target=\"_blank\">BigQuery Graph</a> to model your\ndata as a graph and perform analysis on a large scale.</p><ul>\n<li><p><a href=\"https://docs.cloud.google.com/bigquery/docs/graph-create\" rel=\"noopener noreferrer\" target=\"_blank\">Create a graph</a> directly from tables that store\nentities and relationships between entities. You don't need to modify your\nexisting workflows or replicate your data to use it in graph queries.</p></li>\n<li><p>Use\n<a href=\"https://docs.cloud.google.com/bigquery/docs/reference/standard-sql/graph-intro\" rel=\"noopener noreferrer\" target=\"_blank\">Graph Query Language (GQL)</a>\nto find complex, hidden relationships between data points that would be\nchallenging to find using SQL.</p></li>\n<li><p><a href=\"https://docs.cloud.google.com/bigquery/docs/graph-visualization\" rel=\"noopener noreferrer\" target=\"_blank\">Visualize</a> your graph schema and graph\nquery results in a notebook.</p></li>\n</ul><p>This feature is in\n<a href=\"https://cloud.google.com/products/#product-launch-stages\" rel=\"noopener noreferrer\" target=\"_blank\">Preview</a>.</p>",
+      "content_text": "You can now use BigQuery Graph to model your\ndata as a graph and perform analysis on a large scale. \nCreate a graph directly from tables that store\nentities and relationships between entities. You don't need to modify your\nexisting workflows or replicate your data to use it in graph queries.\nUse\nGraph Query Language (GQL)\nto find complex, hidden relationships between data points that would be\nchallenging to find using SQL.\nVisualize your graph schema and graph\nquery results in a notebook.\n This feature is in\nPreview."
+    }
+  ]
+}
